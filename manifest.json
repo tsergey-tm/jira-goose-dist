@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Jira Goose",
-  "version": "20240320.201140",
+  "version": "20240322.162952",
   "description": "Show compilation between business and development Jira Boards",
   "icons": {
     "16": "icons/icon_16.png",
